@@ -1,46 +1,38 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Aprender",
+      "link": "https://www.youtubekids.com/watch?v=e7SF0opk274&hl=pt",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Quatro Luas para Luna 🌑🌒🌓🌕 - O Show da Luna",
+        "url": "https://www.youtubekids.com/watch?v=e7SF0opk274&hl=pt"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Quatro Luas para Luna 🌑🌒🌓🌕 - O Show da Luna",
+          "url": "https://www.youtubekids.com/watch?v=e7SF0opk274&hl=pt"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Livro Te Faz Livre",
+          "url": "https://www.youtubekids.com/watch?v=VCGNhIw-tWs&list=PLi4grmqTYE3cNHafy4BkWrlLtuf0LRMrs&hl=pt"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Sesamo: Silêncio para Ler",
+          "url": "https://www.youtubekids.com/watch?v=WQQlGxotpds&list=PLi4grmqTYE3cNHafy4BkWrlLtuf0LRMrs&hl=pt"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "O livro dos medos - Varal de Histórias",
+          "url": "https://www.youtubekids.com/watch?v=YSks-W7KCIA&list=PLi4grmqTYE3cNHafy4BkWrlLtuf0LRMrs&hl=pt"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Sésamo: Ler também é divertido",
+          "url": "https://www.youtubekids.com/watch?v=BMfPL4xLab0&list=PLi4grmqTYE3cNHafy4BkWrlLtuf0LRMrs&hl=pt"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Os planetas do sistema solar",
+          "url": "https://www.youtubekids.com/watch?v=pBOo8IcYLKY&hl=pt"
+        }   
       ]
     },
     {
